@@ -1,2 +1,2 @@
 # ajay
-this is my first respositery
+this is my first and respositery
